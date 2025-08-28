@@ -1,0 +1,1001 @@
+id;idade;renda_familiar;investimentos;estudante;curso;transacoes_mensais
+1;46;Acima de R$8.000;Não;Não;Ciências Ambientais;24
+2;46;Acima de R$8.000;Não;Sim;Outro;30
+3;37;Acima de R$8.000;Sim;Sim;Ciências Ambientais;43
+4;60;Entre R$3.000 e R$8.000;Sim;Não;Ciência e Tecnologia de Materiais;4
+5;68;Entre R$3.000 e R$8.000;Sim;Sim;Nenhum;40
+6;28;Acima de R$8.000;Não;Sim;Ciências Ambientais;43
+7;21;Entre R$3.000 e R$8.000;Sim;Sim;Outro;57
+8;58;Acima de R$8.000;Sim;Sim;Ciências Ambientais;19
+9;30;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;1
+10;33;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;69
+11;38;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Ambiental;59
+12;69;Acima de R$8.000;Sim;Sim;Engenharia de Controle e Automação;73
+13;27;Entre R$3.000 e R$8.000;Não;Não;Outro;6
+14;36;Até R$3.000;Sim;Não;Ciências Ambientais;30
+15;28;Acima de R$8.000;Não;Sim;Nenhum;5
+16;73;Entre R$3.000 e R$8.000;Não;Sim;Outro;6
+17;74;Até R$3.000;Sim;Sim;Engenharia de Controle e Automação;45
+18;23;Entre R$3.000 e R$8.000;Sim;Sim;Nenhum;67
+19;34;Acima de R$8.000;Não;Sim;Nenhum;26
+20;45;Acima de R$8.000;Sim;Sim;Engenharia de Controle e Automação;19
+21;55;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;92
+22;17;Até R$3.000;Não;Sim;Engenharia Elétrica;91
+23;46;Entre R$3.000 e R$8.000;Sim;Sim;Nenhum;70
+24;63;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;91
+25;78;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;87
+26;56;Até R$3.000;Sim;Não;Engenharia de Controle e Automação;8
+27;66;Entre R$3.000 e R$8.000;Não;Não;Ciências Ambientais;71
+28;50;Até R$3.000;Sim;Sim;Nenhum;98
+29;39;Até R$3.000;Não;Não;Engenharia de Controle e Automação;88
+30;74;Acima de R$8.000;Sim;Sim;Engenharia de Controle e Automação;90
+31;49;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Elétrica;30
+32;29;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;30
+33;35;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;83
+34;34;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;80
+35;70;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;56
+36;17;Acima de R$8.000;Não;Não;Outro;49
+37;36;Até R$3.000;Não;Sim;Engenharia Elétrica;12
+38;31;Acima de R$8.000;Não;Sim;Engenharia Elétrica;95
+39;32;Até R$3.000;Não;Não;Engenharia de Controle e Automação;45
+40;54;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;67
+41;73;Até R$3.000;Não;Não;Ciência e Tecnologia de Materiais;23
+42;36;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;7
+43;63;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;58
+44;23;Entre R$3.000 e R$8.000;Não;Não;Ciência e Tecnologia de Materiais;83
+45;40;Entre R$3.000 e R$8.000;Não;Não;Outro;64
+46;43;Até R$3.000;Não;Sim;Engenharia Ambiental;55
+47;66;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;7
+48;32;Entre R$3.000 e R$8.000;Não;Não;Outro;77
+49;36;Acima de R$8.000;Sim;Sim;Nenhum;89
+50;40;Acima de R$8.000;Sim;Sim;Engenharia de Controle e Automação;8
+51;52;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;16
+52;47;Acima de R$8.000;Sim;Sim;Ciências Ambientais;39
+53;30;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;68
+54;77;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;87
+55;33;Acima de R$8.000;Sim;Sim;Engenharia Ambiental;52
+56;66;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;69
+57;51;Até R$3.000;Sim;Sim;Ciências Ambientais;61
+58;22;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;74
+59;47;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;62
+60;26;Entre R$3.000 e R$8.000;Sim;Não;Nenhum;24
+61;49;Até R$3.000;Sim;Não;Ciências Ambientais;21
+62;37;Acima de R$8.000;Sim;Sim;Nenhum;35
+63;59;Até R$3.000;Não;Sim;Outro;75
+64;74;Entre R$3.000 e R$8.000;Sim;Sim;Outro;40
+65;24;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;42
+66;22;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;25
+67;78;Até R$3.000;Não;Não;Ciência e Tecnologia de Materiais;68
+68;61;Até R$3.000;Não;Não;Nenhum;89
+69;17;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;68
+70;68;Até R$3.000;Não;Sim;Outro;79
+71;38;Entre R$3.000 e R$8.000;Não;Não;Engenharia Elétrica;31
+72;29;Até R$3.000;Não;Sim;Ciências Ambientais;92
+73;37;Até R$3.000;Não;Não;Nenhum;0
+74;56;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;29
+75;75;Entre R$3.000 e R$8.000;Sim;Não;Ciência e Tecnologia de Materiais;77
+76;71;Entre R$3.000 e R$8.000;Sim;Não;Ciência e Tecnologia de Materiais;90
+77;24;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;73
+78;76;Até R$3.000;Não;Não;Engenharia Elétrica;18
+79;22;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;9
+80;19;Entre R$3.000 e R$8.000;Sim;Não;Ciências Ambientais;42
+81;29;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;9
+82;28;Entre R$3.000 e R$8.000;Não;Não;Ciência e Tecnologia de Materiais;42
+83;38;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;40
+84;51;Acima de R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;42
+85;77;Entre R$3.000 e R$8.000;Sim;Não;Ciência e Tecnologia de Materiais;52
+86;50;Até R$3.000;Não;Sim;Engenharia Ambiental;6
+87;64;Acima de R$8.000;Não;Não;Engenharia Elétrica;76
+88;47;Até R$3.000;Sim;Não;Ciência e Tecnologia de Materiais;78
+89;54;Entre R$3.000 e R$8.000;Sim;Sim;Outro;63
+90;32;Até R$3.000;Não;Sim;Engenharia Elétrica;12
+91;72;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Ambiental;75
+92;73;Entre R$3.000 e R$8.000;Sim;Não;Outro;47
+93;70;Acima de R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;81
+94;36;Acima de R$8.000;Não;Sim;Engenharia Elétrica;52
+95;25;Acima de R$8.000;Sim;Não;Engenharia Elétrica;67
+96;26;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;47
+97;59;Entre R$3.000 e R$8.000;Não;Não;Engenharia Elétrica;85
+98;44;Entre R$3.000 e R$8.000;Não;Não;Outro;9
+99;31;Até R$3.000;Sim;Sim;Ciências Ambientais;92
+100;39;Entre R$3.000 e R$8.000;Não;Sim;Outro;18
+101;64;Acima de R$8.000;Não;Não;Engenharia Elétrica;35
+102;63;Acima de R$8.000;Sim;Não;Ciência e Tecnologia de Materiais;91
+103;29;Entre R$3.000 e R$8.000;Sim;Não;Ciências Ambientais;27
+104;26;Acima de R$8.000;Não;Sim;Ciências Ambientais;67
+105;61;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Elétrica;63
+106;20;Até R$3.000;Não;Não;Engenharia de Controle e Automação;32
+107;68;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;35
+108;43;Acima de R$8.000;Não;Sim;Outro;50
+109;72;Acima de R$8.000;Sim;Sim;Engenharia Elétrica;83
+110;47;Até R$3.000;Não;Sim;Engenharia Ambiental;98
+111;33;Entre R$3.000 e R$8.000;Sim;Sim;Nenhum;7
+112;19;Acima de R$8.000;Não;Sim;Nenhum;30
+113;66;Até R$3.000;Não;Não;Engenharia Ambiental;61
+114;66;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;16
+115;42;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Elétrica;40
+116;29;Até R$3.000;Não;Sim;Outro;51
+117;31;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;24
+118;41;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;3
+119;39;Acima de R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;87
+120;18;Até R$3.000;Não;Sim;Engenharia Elétrica;17
+121;58;Entre R$3.000 e R$8.000;Não;Não;Engenharia de Controle e Automação;60
+122;69;Até R$3.000;Não;Sim;Ciência e Tecnologia de Materiais;98
+123;62;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Ambiental;46
+124;20;Acima de R$8.000;Não;Sim;Ciências Ambientais;8
+125;35;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;58
+126;54;Até R$3.000;Não;Sim;Nenhum;28
+127;33;Entre R$3.000 e R$8.000;Não;Sim;Outro;83
+128;68;Até R$3.000;Sim;Sim;Ciências Ambientais;10
+129;43;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;83
+130;50;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;34
+131;36;Acima de R$8.000;Não;Sim;Engenharia Elétrica;18
+132;51;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;11
+133;34;Até R$3.000;Não;Sim;Engenharia Ambiental;97
+134;28;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;99
+135;27;Acima de R$8.000;Sim;Sim;Engenharia de Controle e Automação;0
+136;72;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;16
+137;51;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Elétrica;8
+138;64;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;60
+139;18;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;92
+140;52;Acima de R$8.000;Sim;Sim;Ciências Ambientais;39
+141;59;Acima de R$8.000;Sim;Não;Engenharia Elétrica;79
+142;61;Entre R$3.000 e R$8.000;Não;Não;Engenharia Elétrica;58
+143;32;Até R$3.000;Sim;Sim;Outro;39
+144;76;Acima de R$8.000;Não;Sim;Nenhum;60
+145;62;Até R$3.000;Não;Sim;Nenhum;1
+146;31;Acima de R$8.000;Sim;Sim;Engenharia Ambiental;95
+147;36;Acima de R$8.000;Sim;Sim;Engenharia Ambiental;50
+148;56;Até R$3.000;Sim;Sim;Ciências Ambientais;88
+149;58;Até R$3.000;Não;Sim;Engenharia Elétrica;67
+150;42;Entre R$3.000 e R$8.000;Sim;Não;Ciência e Tecnologia de Materiais;36
+151;51;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;39
+152;54;Até R$3.000;Não;Não;Outro;51
+153;44;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;40
+154;23;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;13
+155;78;Acima de R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;51
+156;38;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;63
+157;76;Acima de R$8.000;Sim;Não;Engenharia Ambiental;17
+158;66;Até R$3.000;Não;Não;Engenharia Ambiental;38
+159;69;Entre R$3.000 e R$8.000;Sim;Sim;Outro;72
+160;71;Entre R$3.000 e R$8.000;Sim;Sim;Outro;50
+161;60;Até R$3.000;Sim;Sim;Engenharia Ambiental;79
+162;56;Entre R$3.000 e R$8.000;Sim;Não;Ciências Ambientais;75
+163;58;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;40
+164;22;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;98
+165;40;Acima de R$8.000;Sim;Sim;Engenharia de Controle e Automação;90
+166;45;Entre R$3.000 e R$8.000;Sim;Não;Engenharia de Controle e Automação;17
+167;50;Acima de R$8.000;Não;Sim;Ciências Ambientais;79
+168;55;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;92
+169;19;Entre R$3.000 e R$8.000;Sim;Não;Outro;77
+170;43;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;74
+171;18;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;96
+172;27;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;45
+173;48;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Elétrica;88
+174;52;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;43
+175;41;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;30
+176;20;Entre R$3.000 e R$8.000;Sim;Sim;Outro;95
+177;29;Até R$3.000;Não;Sim;Engenharia Elétrica;83
+178;70;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;49
+179;22;Acima de R$8.000;Sim;Sim;Engenharia Elétrica;5
+180;46;Até R$3.000;Não;Sim;Engenharia Elétrica;18
+181;21;Acima de R$8.000;Sim;Não;Ciências Ambientais;76
+182;77;Acima de R$8.000;Não;Sim;Engenharia de Controle e Automação;80
+183;26;Acima de R$8.000;Não;Sim;Engenharia Elétrica;37
+184;70;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Ambiental;97
+185;25;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;94
+186;71;Acima de R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;21
+187;70;Acima de R$8.000;Não;Não;Nenhum;88
+188;37;Até R$3.000;Sim;Sim;Ciências Ambientais;58
+189;65;Entre R$3.000 e R$8.000;Sim;Não;Engenharia de Controle e Automação;90
+190;52;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;69
+191;45;Acima de R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;21
+192;63;Até R$3.000;Não;Não;Engenharia Ambiental;61
+193;18;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;89
+194;24;Até R$3.000;Sim;Sim;Engenharia de Controle e Automação;73
+195;24;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;19
+196;66;Entre R$3.000 e R$8.000;Sim;Não;Ciência e Tecnologia de Materiais;38
+197;43;Entre R$3.000 e R$8.000;Sim;Sim;Outro;30
+198;33;Entre R$3.000 e R$8.000;Não;Não;Engenharia de Controle e Automação;96
+199;21;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;69
+200;35;Acima de R$8.000;Não;Sim;Engenharia Elétrica;28
+201;60;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;93
+202;55;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;90
+203;78;Entre R$3.000 e R$8.000;Sim;Sim;Outro;27
+204;41;Até R$3.000;Sim;Sim;Nenhum;65
+205;73;Acima de R$8.000;Não;Não;Nenhum;69
+206;50;Até R$3.000;Não;Sim;Engenharia Ambiental;76
+207;25;Entre R$3.000 e R$8.000;Sim;Não;Engenharia de Controle e Automação;76
+208;37;Acima de R$8.000;Não;Não;Nenhum;90
+209;50;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;51
+210;29;Acima de R$8.000;Sim;Sim;Outro;52
+211;42;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;3
+212;79;Até R$3.000;Sim;Sim;Outro;36
+213;78;Entre R$3.000 e R$8.000;Não;Não;Outro;86
+214;70;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;98
+215;42;Entre R$3.000 e R$8.000;Não;Não;Ciências Ambientais;0
+216;38;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;75
+217;58;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;40
+218;48;Até R$3.000;Não;Sim;Ciência e Tecnologia de Materiais;64
+219;67;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;8
+220;21;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;46
+221;45;Até R$3.000;Sim;Não;Ciências Ambientais;13
+222;50;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;69
+223;31;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Ambiental;95
+224;26;Entre R$3.000 e R$8.000;Sim;Não;Ciências Ambientais;90
+225;18;Até R$3.000;Sim;Não;Ciências Ambientais;71
+226;51;Até R$3.000;Não;Não;Ciências Ambientais;62
+227;23;Até R$3.000;Não;Não;Engenharia Ambiental;74
+228;70;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;46
+229;49;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;16
+230;43;Acima de R$8.000;Sim;Sim;Engenharia Elétrica;60
+231;24;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;84
+232;35;Acima de R$8.000;Não;Sim;Engenharia Ambiental;65
+233;66;Acima de R$8.000;Sim;Sim;Engenharia de Controle e Automação;19
+234;38;Até R$3.000;Não;Sim;Engenharia Ambiental;53
+235;32;Até R$3.000;Sim;Sim;Engenharia Elétrica;10
+236;72;Até R$3.000;Não;Sim;Nenhum;25
+237;55;Até R$3.000;Sim;Sim;Ciência e Tecnologia de Materiais;29
+238;50;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;20
+239;17;Acima de R$8.000;Não;Sim;Nenhum;32
+240;77;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;97
+241;33;Até R$3.000;Sim;Sim;Engenharia Ambiental;47
+242;78;Até R$3.000;Sim;Não;Engenharia Elétrica;46
+243;79;Acima de R$8.000;Não;Sim;Engenharia de Controle e Automação;7
+244;58;Entre R$3.000 e R$8.000;Não;Sim;Outro;72
+245;74;Acima de R$8.000;Sim;Sim;Engenharia Elétrica;15
+246;61;Entre R$3.000 e R$8.000;Sim;Sim;Nenhum;16
+247;30;Acima de R$8.000;Não;Sim;Ciências Ambientais;29
+248;72;Entre R$3.000 e R$8.000;Não;Sim;Outro;38
+249;35;Acima de R$8.000;Não;Sim;Engenharia Elétrica;24
+250;20;Até R$3.000;Sim;Sim;Engenharia de Controle e Automação;12
+251;18;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;2
+252;54;Até R$3.000;Sim;Não;Ciência e Tecnologia de Materiais;83
+253;66;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;86
+254;45;Até R$3.000;Não;Não;Engenharia Elétrica;2
+255;27;Até R$3.000;Não;Sim;Engenharia Ambiental;88
+256;52;Acima de R$8.000;Não;Sim;Engenharia Ambiental;41
+257;28;Até R$3.000;Não;Sim;Ciências Ambientais;19
+258;19;Até R$3.000;Não;Sim;Ciências Ambientais;96
+259;46;Até R$3.000;Não;Sim;Engenharia Ambiental;78
+260;28;Entre R$3.000 e R$8.000;Sim;Sim;Outro;47
+261;64;Até R$3.000;Não;Sim;Ciência e Tecnologia de Materiais;68
+262;54;Até R$3.000;Não;Não;Engenharia de Controle e Automação;79
+263;24;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;79
+264;55;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;74
+265;25;Acima de R$8.000;Sim;Sim;Engenharia de Controle e Automação;12
+266;53;Até R$3.000;Sim;Sim;Ciência e Tecnologia de Materiais;91
+267;50;Acima de R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;27
+268;42;Acima de R$8.000;Sim;Sim;Engenharia de Controle e Automação;73
+269;40;Acima de R$8.000;Não;Sim;Nenhum;33
+270;65;Entre R$3.000 e R$8.000;Não;Não;Ciências Ambientais;13
+271;35;Entre R$3.000 e R$8.000;Sim;Não;Engenharia de Controle e Automação;89
+272;56;Até R$3.000;Não;Não;Nenhum;62
+273;42;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;58
+274;23;Até R$3.000;Não;Sim;Engenharia Ambiental;95
+275;21;Entre R$3.000 e R$8.000;Sim;Sim;Nenhum;28
+276;45;Acima de R$8.000;Sim;Sim;Ciências Ambientais;13
+277;45;Entre R$3.000 e R$8.000;Sim;Não;Ciência e Tecnologia de Materiais;3
+278;57;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Ambiental;92
+279;29;Acima de R$8.000;Sim;Não;Engenharia Ambiental;75
+280;73;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;63
+281;51;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;22
+282;50;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;76
+283;24;Acima de R$8.000;Não;Sim;Engenharia Elétrica;66
+284;19;Acima de R$8.000;Não;Sim;Engenharia Ambiental;7
+285;32;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;61
+286;38;Acima de R$8.000;Não;Sim;Ciências Ambientais;83
+287;55;Até R$3.000;Sim;Sim;Outro;98
+288;43;Entre R$3.000 e R$8.000;Sim;Sim;Nenhum;96
+289;29;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;81
+290;51;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;93
+291;23;Acima de R$8.000;Sim;Sim;Outro;42
+292;54;Até R$3.000;Não;Sim;Nenhum;93
+293;48;Acima de R$8.000;Não;Sim;Engenharia de Controle e Automação;59
+294;33;Acima de R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;23
+295;59;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;12
+296;22;Acima de R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;82
+297;38;Entre R$3.000 e R$8.000;Sim;Sim;Outro;8
+298;28;Entre R$3.000 e R$8.000;Sim;Não;Nenhum;19
+299;46;Entre R$3.000 e R$8.000;Não;Sim;Outro;45
+300;44;Até R$3.000;Não;Sim;Engenharia Elétrica;45
+301;59;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;70
+302;20;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Ambiental;47
+303;42;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;12
+304;26;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;93
+305;26;Até R$3.000;Sim;Sim;Nenhum;71
+306;55;Até R$3.000;Não;Não;Engenharia Ambiental;34
+307;65;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;1
+308;41;Entre R$3.000 e R$8.000;Não;Não;Outro;19
+309;34;Até R$3.000;Sim;Sim;Ciências Ambientais;8
+310;25;Até R$3.000;Não;Sim;Engenharia Elétrica;50
+311;51;Até R$3.000;Não;Não;Engenharia de Controle e Automação;84
+312;78;Entre R$3.000 e R$8.000;Sim;Não;Engenharia de Controle e Automação;1
+313;51;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;27
+314;19;Até R$3.000;Não;Não;Outro;16
+315;46;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Elétrica;9
+316;56;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;36
+317;62;Até R$3.000;Sim;Sim;Engenharia Ambiental;17
+318;17;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;27
+319;68;Até R$3.000;Não;Não;Engenharia Ambiental;76
+320;37;Acima de R$8.000;Sim;Sim;Engenharia de Controle e Automação;55
+321;66;Entre R$3.000 e R$8.000;Sim;Sim;Outro;93
+322;31;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;33
+323;27;Entre R$3.000 e R$8.000;Sim;Não;Nenhum;40
+324;73;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;91
+325;44;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;11
+326;63;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;80
+327;50;Acima de R$8.000;Não;Não;Ciência e Tecnologia de Materiais;93
+328;67;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;2
+329;42;Entre R$3.000 e R$8.000;Não;Não;Engenharia Elétrica;30
+330;76;Até R$3.000;Sim;Sim;Engenharia Ambiental;57
+331;39;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;31
+332;19;Até R$3.000;Não;Sim;Engenharia Ambiental;13
+333;57;Entre R$3.000 e R$8.000;Não;Não;Nenhum;58
+334;78;Acima de R$8.000;Não;Não;Engenharia de Controle e Automação;95
+335;26;Entre R$3.000 e R$8.000;Sim;Não;Outro;55
+336;77;Acima de R$8.000;Sim;Não;Engenharia de Controle e Automação;4
+337;57;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;6
+338;79;Acima de R$8.000;Não;Sim;Nenhum;51
+339;73;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;3
+340;63;Acima de R$8.000;Não;Não;Ciências Ambientais;88
+341;70;Acima de R$8.000;Sim;Sim;Outro;69
+342;60;Acima de R$8.000;Não;Sim;Outro;24
+343;56;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;89
+344;76;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;90
+345;79;Até R$3.000;Sim;Sim;Nenhum;95
+346;58;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;8
+347;70;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;85
+348;25;Até R$3.000;Não;Sim;Ciências Ambientais;27
+349;27;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Elétrica;83
+350;62;Até R$3.000;Não;Sim;Ciência e Tecnologia de Materiais;3
+351;65;Até R$3.000;Não;Não;Engenharia Elétrica;29
+352;77;Entre R$3.000 e R$8.000;Não;Não;Outro;76
+353;35;Acima de R$8.000;Sim;Não;Outro;67
+354;54;Entre R$3.000 e R$8.000;Não;Não;Nenhum;7
+355;64;Até R$3.000;Não;Sim;Engenharia Elétrica;77
+356;68;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;40
+357;72;Até R$3.000;Não;Não;Engenharia de Controle e Automação;40
+358;19;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;86
+359;37;Até R$3.000;Não;Sim;Ciências Ambientais;68
+360;71;Entre R$3.000 e R$8.000;Sim;Não;Ciência e Tecnologia de Materiais;58
+361;48;Até R$3.000;Sim;Sim;Outro;42
+362;63;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;86
+363;70;Acima de R$8.000;Sim;Sim;Ciências Ambientais;22
+364;75;Até R$3.000;Não;Sim;Ciências Ambientais;61
+365;47;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;51
+366;47;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Ambiental;82
+367;23;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;37
+368;50;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Elétrica;30
+369;43;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;95
+370;68;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;68
+371;33;Entre R$3.000 e R$8.000;Não;Não;Outro;53
+372;39;Entre R$3.000 e R$8.000;Sim;Sim;Nenhum;51
+373;71;Acima de R$8.000;Não;Sim;Engenharia Ambiental;59
+374;41;Até R$3.000;Sim;Sim;Outro;8
+375;48;Acima de R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;1
+376;53;Acima de R$8.000;Sim;Não;Nenhum;91
+377;69;Até R$3.000;Sim;Sim;Engenharia Ambiental;22
+378;56;Acima de R$8.000;Não;Sim;Engenharia de Controle e Automação;59
+379;35;Entre R$3.000 e R$8.000;Sim;Sim;Nenhum;71
+380;36;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;94
+381;17;Acima de R$8.000;Sim;Sim;Nenhum;34
+382;74;Até R$3.000;Não;Sim;Ciências Ambientais;35
+383;48;Entre R$3.000 e R$8.000;Não;Não;Engenharia de Controle e Automação;93
+384;62;Acima de R$8.000;Não;Sim;Engenharia de Controle e Automação;72
+385;44;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;26
+386;36;Até R$3.000;Sim;Sim;Ciências Ambientais;90
+387;44;Até R$3.000;Sim;Não;Ciência e Tecnologia de Materiais;57
+388;36;Acima de R$8.000;Sim;Sim;Outro;63
+389;25;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Elétrica;48
+390;30;Até R$3.000;Não;Sim;Ciência e Tecnologia de Materiais;40
+391;53;Até R$3.000;Não;Não;Ciências Ambientais;97
+392;29;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;80
+393;70;Acima de R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;24
+394;44;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;98
+395;39;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;90
+396;66;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Ambiental;34
+397;54;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;89
+398;42;Acima de R$8.000;Sim;Sim;Engenharia Ambiental;33
+399;44;Entre R$3.000 e R$8.000;Sim;Sim;Nenhum;83
+400;67;Entre R$3.000 e R$8.000;Não;Não;Engenharia Elétrica;72
+401;49;Até R$3.000;Sim;Sim;Engenharia Elétrica;90
+402;24;Entre R$3.000 e R$8.000;Não;Sim;Outro;83
+403;41;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;98
+404;31;Entre R$3.000 e R$8.000;Não;Não;Ciência e Tecnologia de Materiais;71
+405;73;Até R$3.000;Não;Sim;Ciência e Tecnologia de Materiais;11
+406;62;Até R$3.000;Sim;Sim;Ciência e Tecnologia de Materiais;7
+407;27;Acima de R$8.000;Sim;Sim;Nenhum;76
+408;36;Entre R$3.000 e R$8.000;Não;Não;Engenharia de Controle e Automação;68
+409;79;Até R$3.000;Sim;Não;Ciências Ambientais;96
+410;32;Entre R$3.000 e R$8.000;Não;Não;Ciência e Tecnologia de Materiais;42
+411;34;Até R$3.000;Sim;Sim;Ciência e Tecnologia de Materiais;83
+412;35;Entre R$3.000 e R$8.000;Sim;Não;Engenharia de Controle e Automação;5
+413;51;Até R$3.000;Não;Sim;Nenhum;99
+414;74;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;70
+415;62;Até R$3.000;Não;Sim;Ciências Ambientais;1
+416;76;Acima de R$8.000;Não;Sim;Engenharia Ambiental;34
+417;45;Entre R$3.000 e R$8.000;Não;Não;Ciências Ambientais;99
+418;37;Acima de R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;52
+419;24;Até R$3.000;Sim;Não;Ciência e Tecnologia de Materiais;62
+420;46;Acima de R$8.000;Não;Sim;Engenharia Ambiental;83
+421;31;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;6
+422;47;Acima de R$8.000;Não;Sim;Engenharia Elétrica;6
+423;49;Entre R$3.000 e R$8.000;Não;Sim;Outro;55
+424;45;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;51
+425;36;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;46
+426;68;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;25
+427;43;Até R$3.000;Não;Não;Nenhum;45
+428;56;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;98
+429;63;Entre R$3.000 e R$8.000;Não;Não;Outro;60
+430;47;Acima de R$8.000;Sim;Não;Ciência e Tecnologia de Materiais;46
+431;55;Até R$3.000;Não;Não;Outro;48
+432;73;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;39
+433;43;Acima de R$8.000;Sim;Sim;Ciências Ambientais;58
+434;41;Acima de R$8.000;Não;Não;Nenhum;12
+435;31;Até R$3.000;Não;Sim;Engenharia Elétrica;78
+436;42;Até R$3.000;Não;Sim;Engenharia Elétrica;67
+437;23;Até R$3.000;Não;Sim;Engenharia Elétrica;93
+438;66;Até R$3.000;Sim;Sim;Outro;60
+439;37;Até R$3.000;Sim;Não;Engenharia de Controle e Automação;78
+440;63;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;99
+441;44;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;53
+442;45;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;49
+443;73;Até R$3.000;Sim;Sim;Engenharia de Controle e Automação;45
+444;54;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;9
+445;24;Até R$3.000;Não;Não;Engenharia de Controle e Automação;97
+446;50;Acima de R$8.000;Não;Sim;Outro;75
+447;20;Acima de R$8.000;Sim;Não;Engenharia Elétrica;33
+448;31;Acima de R$8.000;Não;Não;Engenharia Ambiental;73
+449;30;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;60
+450;39;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;18
+451;68;Entre R$3.000 e R$8.000;Não;Não;Ciência e Tecnologia de Materiais;34
+452;47;Até R$3.000;Não;Sim;Nenhum;34
+453;62;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;38
+454;56;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;51
+455;76;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Ambiental;77
+456;41;Entre R$3.000 e R$8.000;Sim;Não;Outro;48
+457;38;Entre R$3.000 e R$8.000;Não;Não;Engenharia Elétrica;85
+458;58;Até R$3.000;Sim;Sim;Ciência e Tecnologia de Materiais;50
+459;41;Entre R$3.000 e R$8.000;Não;Não;Ciência e Tecnologia de Materiais;34
+460;59;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;92
+461;41;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;27
+462;39;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;63
+463;53;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;20
+464;52;Entre R$3.000 e R$8.000;Não;Não;Engenharia de Controle e Automação;36
+465;52;Até R$3.000;Não;Não;Engenharia de Controle e Automação;90
+466;36;Até R$3.000;Não;Sim;Ciência e Tecnologia de Materiais;26
+467;69;Até R$3.000;Não;Sim;Engenharia Elétrica;82
+468;43;Acima de R$8.000;Não;Sim;Engenharia Elétrica;87
+469;40;Entre R$3.000 e R$8.000;Não;Não;Outro;63
+470;25;Acima de R$8.000;Não;Não;Nenhum;19
+471;68;Até R$3.000;Sim;Sim;Nenhum;25
+472;35;Entre R$3.000 e R$8.000;Sim;Não;Nenhum;13
+473;22;Entre R$3.000 e R$8.000;Sim;Não;Outro;33
+474;33;Até R$3.000;Sim;Sim;Outro;48
+475;61;Entre R$3.000 e R$8.000;Não;Não;Ciências Ambientais;73
+476;61;Acima de R$8.000;Não;Sim;Engenharia de Controle e Automação;15
+477;77;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;41
+478;79;Entre R$3.000 e R$8.000;Sim;Não;Engenharia de Controle e Automação;11
+479;63;Entre R$3.000 e R$8.000;Sim;Sim;Outro;5
+480;35;Entre R$3.000 e R$8.000;Não;Não;Ciência e Tecnologia de Materiais;82
+481;24;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;27
+482;76;Acima de R$8.000;Não;Não;Engenharia Ambiental;42
+483;39;Até R$3.000;Sim;Sim;Ciências Ambientais;59
+484;79;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;53
+485;57;Acima de R$8.000;Não;Não;Ciência e Tecnologia de Materiais;65
+486;72;Acima de R$8.000;Não;Sim;Engenharia de Controle e Automação;52
+487;57;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;50
+488;62;Acima de R$8.000;Não;Não;Ciência e Tecnologia de Materiais;83
+489;46;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;82
+490;78;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Elétrica;16
+491;44;Até R$3.000;Não;Não;Ciências Ambientais;40
+492;36;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;58
+493;54;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;46
+494;36;Até R$3.000;Não;Não;Engenharia Elétrica;90
+495;55;Acima de R$8.000;Sim;Não;Ciências Ambientais;84
+496;50;Entre R$3.000 e R$8.000;Não;Não;Engenharia Elétrica;42
+497;52;Até R$3.000;Não;Sim;Ciências Ambientais;14
+498;43;Acima de R$8.000;Sim;Não;Outro;76
+499;35;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;52
+500;22;Entre R$3.000 e R$8.000;Sim;Não;Nenhum;90
+501;57;Entre R$3.000 e R$8.000;Não;Não;Nenhum;32
+502;37;Entre R$3.000 e R$8.000;Sim;Não;Ciência e Tecnologia de Materiais;87
+503;58;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;88
+504;30;Até R$3.000;Sim;Sim;Engenharia Elétrica;25
+505;34;Acima de R$8.000;Não;Sim;Engenharia Elétrica;99
+506;34;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;80
+507;64;Acima de R$8.000;Não;Sim;Engenharia de Controle e Automação;76
+508;62;Até R$3.000;Sim;Sim;Outro;35
+509;27;Acima de R$8.000;Não;Não;Nenhum;57
+510;54;Até R$3.000;Sim;Sim;Ciências Ambientais;9
+511;66;Acima de R$8.000;Sim;Sim;Nenhum;27
+512;77;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;36
+513;35;Até R$3.000;Não;Não;Engenharia de Controle e Automação;83
+514;57;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;98
+515;70;Acima de R$8.000;Não;Não;Ciência e Tecnologia de Materiais;61
+516;44;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;65
+517;60;Até R$3.000;Não;Sim;Nenhum;5
+518;55;Até R$3.000;Não;Sim;Ciências Ambientais;5
+519;42;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;56
+520;32;Até R$3.000;Sim;Sim;Outro;90
+521;78;Até R$3.000;Não;Sim;Engenharia Elétrica;88
+522;48;Entre R$3.000 e R$8.000;Não;Sim;Outro;1
+523;79;Acima de R$8.000;Sim;Sim;Nenhum;80
+524;67;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;20
+525;79;Até R$3.000;Não;Sim;Outro;21
+526;26;Até R$3.000;Não;Sim;Engenharia Elétrica;35
+527;19;Até R$3.000;Não;Sim;Ciência e Tecnologia de Materiais;65
+528;62;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;26
+529;40;Acima de R$8.000;Sim;Sim;Engenharia de Controle e Automação;89
+530;48;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;36
+531;34;Acima de R$8.000;Não;Sim;Engenharia Elétrica;98
+532;50;Acima de R$8.000;Não;Não;Engenharia Elétrica;16
+533;42;Acima de R$8.000;Não;Sim;Nenhum;51
+534;53;Entre R$3.000 e R$8.000;Não;Não;Outro;90
+535;48;Até R$3.000;Sim;Sim;Engenharia Ambiental;31
+536;42;Entre R$3.000 e R$8.000;Não;Não;Engenharia de Controle e Automação;92
+537;23;Até R$3.000;Não;Sim;Ciência e Tecnologia de Materiais;71
+538;30;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;92
+539;20;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Ambiental;14
+540;53;Acima de R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;6
+541;79;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;68
+542;68;Até R$3.000;Sim;Sim;Engenharia Ambiental;35
+543;18;Acima de R$8.000;Sim;Não;Nenhum;26
+544;55;Até R$3.000;Não;Sim;Outro;36
+545;56;Acima de R$8.000;Sim;Sim;Engenharia Ambiental;58
+546;39;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;33
+547;56;Até R$3.000;Não;Não;Engenharia Ambiental;17
+548;63;Entre R$3.000 e R$8.000;Não;Não;Nenhum;51
+549;52;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;10
+550;64;Até R$3.000;Não;Não;Outro;41
+551;36;Entre R$3.000 e R$8.000;Sim;Não;Outro;45
+552;30;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;34
+553;52;Entre R$3.000 e R$8.000;Sim;Não;Ciências Ambientais;86
+554;52;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Elétrica;99
+555;19;Até R$3.000;Sim;Sim;Ciência e Tecnologia de Materiais;90
+556;79;Acima de R$8.000;Sim;Sim;Engenharia Elétrica;13
+557;33;Entre R$3.000 e R$8.000;Não;Sim;Outro;85
+558;18;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;74
+559;64;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;59
+560;67;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;28
+561;42;Até R$3.000;Não;Sim;Engenharia Ambiental;21
+562;34;Até R$3.000;Sim;Sim;Ciências Ambientais;65
+563;21;Até R$3.000;Não;Sim;Outro;91
+564;20;Até R$3.000;Não;Sim;Outro;51
+565;76;Até R$3.000;Sim;Sim;Nenhum;18
+566;60;Acima de R$8.000;Sim;Não;Outro;83
+567;36;Até R$3.000;Não;Sim;Outro;83
+568;48;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Ambiental;61
+569;39;Acima de R$8.000;Não;Sim;Ciências Ambientais;93
+570;24;Acima de R$8.000;Sim;Sim;Engenharia de Controle e Automação;28
+571;31;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;47
+572;29;Entre R$3.000 e R$8.000;Sim;Sim;Nenhum;4
+573;39;Até R$3.000;Não;Não;Engenharia Elétrica;42
+574;18;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;20
+575;63;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;6
+576;47;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;99
+577;72;Acima de R$8.000;Não;Não;Ciências Ambientais;26
+578;49;Entre R$3.000 e R$8.000;Não;Não;Engenharia de Controle e Automação;83
+579;59;Entre R$3.000 e R$8.000;Não;Não;Outro;39
+580;30;Até R$3.000;Não;Sim;Ciências Ambientais;28
+581;35;Acima de R$8.000;Sim;Sim;Engenharia Elétrica;77
+582;63;Até R$3.000;Não;Não;Engenharia Ambiental;92
+583;42;Entre R$3.000 e R$8.000;Não;Não;Ciência e Tecnologia de Materiais;18
+584;43;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;99
+585;57;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;92
+586;57;Entre R$3.000 e R$8.000;Sim;Não;Engenharia de Controle e Automação;91
+587;21;Entre R$3.000 e R$8.000;Não;Não;Ciências Ambientais;18
+588;22;Acima de R$8.000;Não;Sim;Engenharia Elétrica;83
+589;74;Acima de R$8.000;Não;Não;Outro;83
+590;28;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;84
+591;50;Entre R$3.000 e R$8.000;Não;Não;Ciências Ambientais;97
+592;34;Acima de R$8.000;Sim;Não;Outro;96
+593;17;Entre R$3.000 e R$8.000;Não;Sim;Outro;76
+594;18;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;1
+595;79;Até R$3.000;Sim;Sim;Ciências Ambientais;3
+596;64;Acima de R$8.000;Sim;Não;Nenhum;67
+597;78;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;3
+598;52;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;89
+599;26;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;99
+600;54;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;22
+601;65;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;10
+602;34;Até R$3.000;Não;Não;Ciência e Tecnologia de Materiais;16
+603;36;Até R$3.000;Não;Sim;Engenharia Elétrica;98
+604;21;Até R$3.000;Não;Não;Engenharia Ambiental;47
+605;29;Entre R$3.000 e R$8.000;Não;Não;Outro;10
+606;54;Entre R$3.000 e R$8.000;Não;Não;Ciências Ambientais;46
+607;73;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;30
+608;37;Até R$3.000;Não;Não;Ciências Ambientais;29
+609;30;Entre R$3.000 e R$8.000;Sim;Não;Ciência e Tecnologia de Materiais;93
+610;20;Acima de R$8.000;Não;Sim;Engenharia Elétrica;45
+611;44;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;23
+612;54;Entre R$3.000 e R$8.000;Não;Sim;Outro;59
+613;43;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;38
+614;58;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;36
+615;73;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Ambiental;60
+616;34;Até R$3.000;Não;Não;Engenharia de Controle e Automação;80
+617;72;Até R$3.000;Não;Não;Outro;6
+618;79;Até R$3.000;Não;Sim;Engenharia Ambiental;96
+619;76;Entre R$3.000 e R$8.000;Não;Não;Engenharia Elétrica;27
+620;44;Acima de R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;83
+621;59;Até R$3.000;Não;Sim;Engenharia Ambiental;27
+622;51;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;56
+623;79;Até R$3.000;Sim;Sim;Outro;70
+624;43;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;60
+625;23;Entre R$3.000 e R$8.000;Sim;Sim;Outro;14
+626;29;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;66
+627;28;Acima de R$8.000;Não;Sim;Ciências Ambientais;15
+628;73;Entre R$3.000 e R$8.000;Não;Não;Engenharia de Controle e Automação;52
+629;64;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;56
+630;72;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;34
+631;33;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;92
+632;21;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;7
+633;68;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;65
+634;63;Até R$3.000;Não;Não;Nenhum;77
+635;50;Acima de R$8.000;Não;Não;Engenharia de Controle e Automação;53
+636;36;Até R$3.000;Não;Sim;Ciência e Tecnologia de Materiais;46
+637;60;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;66
+638;26;Até R$3.000;Sim;Sim;Engenharia de Controle e Automação;81
+639;59;Entre R$3.000 e R$8.000;Sim;Não;Ciência e Tecnologia de Materiais;15
+640;56;Até R$3.000;Não;Não;Engenharia de Controle e Automação;9
+641;27;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;13
+642;44;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;39
+643;65;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;84
+644;59;Entre R$3.000 e R$8.000;Sim;Não;Nenhum;76
+645;19;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;49
+646;75;Entre R$3.000 e R$8.000;Não;Não;Ciência e Tecnologia de Materiais;12
+647;24;Até R$3.000;Não;Não;Engenharia Elétrica;97
+648;19;Até R$3.000;Não;Não;Ciência e Tecnologia de Materiais;92
+649;65;Acima de R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;1
+650;50;Entre R$3.000 e R$8.000;Sim;Sim;Outro;26
+651;42;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;47
+652;62;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Ambiental;8
+653;54;Até R$3.000;Não;Não;Engenharia Ambiental;78
+654;79;Até R$3.000;Não;Não;Engenharia Elétrica;71
+655;22;Até R$3.000;Não;Sim;Outro;66
+656;19;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;29
+657;51;Entre R$3.000 e R$8.000;Não;Não;Outro;53
+658;71;Entre R$3.000 e R$8.000;Sim;Não;Ciências Ambientais;16
+659;63;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;51
+660;67;Até R$3.000;Não;Sim;Outro;74
+661;35;Entre R$3.000 e R$8.000;Não;Não;Outro;91
+662;27;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;52
+663;32;Até R$3.000;Sim;Sim;Engenharia Ambiental;0
+664;52;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;19
+665;35;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;15
+666;31;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;57
+667;79;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;30
+668;71;Acima de R$8.000;Sim;Não;Engenharia Ambiental;30
+669;45;Acima de R$8.000;Não;Sim;Engenharia Ambiental;25
+670;44;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;85
+671;71;Até R$3.000;Sim;Sim;Engenharia de Controle e Automação;8
+672;72;Até R$3.000;Não;Sim;Ciências Ambientais;82
+673;62;Até R$3.000;Não;Sim;Outro;61
+674;21;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;17
+675;39;Até R$3.000;Não;Sim;Ciências Ambientais;12
+676;39;Acima de R$8.000;Não;Sim;Engenharia Elétrica;29
+677;44;Acima de R$8.000;Não;Sim;Engenharia Ambiental;83
+678;74;Entre R$3.000 e R$8.000;Não;Não;Ciências Ambientais;78
+679;70;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Ambiental;29
+680;55;Até R$3.000;Não;Sim;Outro;72
+681;32;Entre R$3.000 e R$8.000;Não;Não;Ciência e Tecnologia de Materiais;66
+682;57;Acima de R$8.000;Sim;Sim;Engenharia Elétrica;36
+683;62;Até R$3.000;Não;Não;Ciência e Tecnologia de Materiais;69
+684;30;Acima de R$8.000;Não;Sim;Outro;26
+685;20;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Elétrica;28
+686;59;Até R$3.000;Não;Sim;Engenharia Ambiental;35
+687;65;Acima de R$8.000;Não;Não;Ciências Ambientais;5
+688;36;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;47
+689;74;Até R$3.000;Não;Sim;Ciência e Tecnologia de Materiais;19
+690;19;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;84
+691;27;Entre R$3.000 e R$8.000;Sim;Não;Ciências Ambientais;16
+692;46;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;33
+693;45;Até R$3.000;Não;Não;Engenharia Elétrica;61
+694;32;Entre R$3.000 e R$8.000;Sim;Não;Engenharia de Controle e Automação;94
+695;45;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;4
+696;27;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;79
+697;17;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;94
+698;44;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;63
+699;46;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;12
+700;67;Entre R$3.000 e R$8.000;Não;Não;Outro;88
+701;48;Até R$3.000;Sim;Sim;Outro;3
+702;37;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;96
+703;26;Até R$3.000;Sim;Sim;Ciências Ambientais;64
+704;41;Até R$3.000;Sim;Não;Ciência e Tecnologia de Materiais;6
+705;67;Entre R$3.000 e R$8.000;Sim;Não;Ciência e Tecnologia de Materiais;63
+706;54;Até R$3.000;Não;Sim;Engenharia Ambiental;49
+707;42;Entre R$3.000 e R$8.000;Não;Não;Outro;66
+708;69;Até R$3.000;Não;Sim;Ciências Ambientais;52
+709;56;Acima de R$8.000;Sim;Não;Engenharia Elétrica;73
+710;63;Entre R$3.000 e R$8.000;Não;Não;Ciências Ambientais;40
+711;35;Acima de R$8.000;Não;Sim;Nenhum;95
+712;77;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;44
+713;18;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;82
+714;27;Acima de R$8.000;Sim;Sim;Outro;49
+715;36;Acima de R$8.000;Não;Não;Ciências Ambientais;6
+716;62;Entre R$3.000 e R$8.000;Não;Não;Engenharia Elétrica;80
+717;40;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;79
+718;34;Até R$3.000;Não;Sim;Engenharia Ambiental;21
+719;48;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;50
+720;20;Acima de R$8.000;Sim;Não;Nenhum;0
+721;45;Até R$3.000;Não;Não;Nenhum;16
+722;60;Entre R$3.000 e R$8.000;Não;Não;Ciências Ambientais;65
+723;55;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;46
+724;71;Até R$3.000;Não;Sim;Nenhum;20
+725;31;Até R$3.000;Não;Sim;Nenhum;38
+726;24;Acima de R$8.000;Não;Sim;Outro;76
+727;77;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;31
+728;19;Até R$3.000;Não;Não;Ciência e Tecnologia de Materiais;61
+729;34;Acima de R$8.000;Sim;Não;Engenharia Ambiental;23
+730;77;Até R$3.000;Sim;Não;Ciência e Tecnologia de Materiais;25
+731;31;Acima de R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;55
+732;58;Acima de R$8.000;Sim;Sim;Nenhum;30
+733;22;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;78
+734;37;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;6
+735;75;Até R$3.000;Sim;Sim;Engenharia Elétrica;45
+736;76;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;71
+737;40;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;79
+738;20;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;89
+739;74;Até R$3.000;Não;Não;Outro;13
+740;77;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Ambiental;30
+741;61;Acima de R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;73
+742;19;Até R$3.000;Sim;Não;Nenhum;71
+743;58;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;81
+744;74;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;85
+745;58;Acima de R$8.000;Sim;Sim;Engenharia de Controle e Automação;34
+746;45;Acima de R$8.000;Sim;Sim;Outro;15
+747;35;Até R$3.000;Não;Sim;Engenharia Elétrica;91
+748;40;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;39
+749;79;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;68
+750;62;Até R$3.000;Não;Não;Outro;63
+751;51;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;77
+752;79;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;93
+753;59;Até R$3.000;Não;Sim;Nenhum;1
+754;37;Até R$3.000;Sim;Sim;Engenharia Ambiental;34
+755;75;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;35
+756;27;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;44
+757;40;Até R$3.000;Não;Sim;Nenhum;97
+758;40;Entre R$3.000 e R$8.000;Não;Não;Nenhum;83
+759;76;Até R$3.000;Não;Sim;Nenhum;87
+760;35;Até R$3.000;Sim;Sim;Ciências Ambientais;10
+761;38;Entre R$3.000 e R$8.000;Não;Não;Outro;84
+762;17;Até R$3.000;Não;Sim;Engenharia Ambiental;69
+763;33;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;47
+764;49;Até R$3.000;Sim;Não;Outro;45
+765;17;Até R$3.000;Não;Sim;Nenhum;27
+766;56;Até R$3.000;Sim;Sim;Engenharia Elétrica;48
+767;73;Acima de R$8.000;Sim;Sim;Engenharia Elétrica;83
+768;47;Até R$3.000;Sim;Sim;Engenharia de Controle e Automação;71
+769;27;Até R$3.000;Não;Sim;Engenharia Ambiental;46
+770;24;Entre R$3.000 e R$8.000;Não;Não;Ciências Ambientais;68
+771;74;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;50
+772;57;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;83
+773;62;Até R$3.000;Sim;Não;Ciência e Tecnologia de Materiais;5
+774;39;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;83
+775;26;Até R$3.000;Não;Sim;Engenharia Ambiental;57
+776;28;Até R$3.000;Não;Sim;Engenharia Elétrica;54
+777;36;Acima de R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;5
+778;69;Entre R$3.000 e R$8.000;Não;Não;Nenhum;72
+779;42;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;40
+780;17;Entre R$3.000 e R$8.000;Não;Não;Ciências Ambientais;74
+781;33;Até R$3.000;Não;Não;Engenharia Elétrica;53
+782;27;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Ambiental;61
+783;62;Até R$3.000;Sim;Sim;Engenharia Ambiental;2
+784;35;Até R$3.000;Não;Sim;Engenharia Elétrica;56
+785;53;Acima de R$8.000;Sim;Sim;Outro;54
+786;62;Acima de R$8.000;Sim;Não;Engenharia Elétrica;25
+787;68;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;69
+788;20;Até R$3.000;Sim;Sim;Ciências Ambientais;29
+789;17;Até R$3.000;Sim;Sim;Nenhum;75
+790;60;Entre R$3.000 e R$8.000;Sim;Não;Engenharia de Controle e Automação;75
+791;45;Acima de R$8.000;Sim;Sim;Ciências Ambientais;32
+792;18;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;86
+793;68;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;5
+794;21;Acima de R$8.000;Sim;Não;Engenharia Ambiental;13
+795;41;Acima de R$8.000;Não;Sim;Outro;11
+796;62;Até R$3.000;Sim;Não;Ciências Ambientais;38
+797;57;Até R$3.000;Não;Não;Ciências Ambientais;84
+798;64;Entre R$3.000 e R$8.000;Não;Não;Engenharia Elétrica;81
+799;71;Acima de R$8.000;Não;Sim;Outro;34
+800;55;Até R$3.000;Não;Não;Nenhum;4
+801;78;Até R$3.000;Não;Sim;Ciência e Tecnologia de Materiais;77
+802;73;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;25
+803;61;Até R$3.000;Sim;Sim;Engenharia de Controle e Automação;49
+804;62;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Ambiental;80
+805;76;Acima de R$8.000;Não;Não;Engenharia de Controle e Automação;22
+806;24;Até R$3.000;Não;Sim;Engenharia Ambiental;5
+807;28;Entre R$3.000 e R$8.000;Não;Não;Outro;35
+808;50;Entre R$3.000 e R$8.000;Sim;Sim;Outro;37
+809;17;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;40
+810;46;Até R$3.000;Não;Sim;Engenharia Ambiental;91
+811;46;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;45
+812;35;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;54
+813;58;Até R$3.000;Não;Sim;Engenharia Elétrica;43
+814;55;Até R$3.000;Não;Sim;Engenharia Elétrica;71
+815;44;Até R$3.000;Sim;Sim;Engenharia Elétrica;30
+816;67;Até R$3.000;Não;Sim;Ciência e Tecnologia de Materiais;11
+817;63;Entre R$3.000 e R$8.000;Não;Não;Ciências Ambientais;13
+818;55;Até R$3.000;Não;Sim;Outro;5
+819;26;Entre R$3.000 e R$8.000;Não;Não;Outro;60
+820;47;Até R$3.000;Sim;Sim;Ciência e Tecnologia de Materiais;9
+821;78;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;53
+822;78;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;64
+823;57;Acima de R$8.000;Não;Não;Engenharia Ambiental;35
+824;32;Até R$3.000;Não;Sim;Ciências Ambientais;48
+825;45;Acima de R$8.000;Não;Sim;Outro;4
+826;61;Entre R$3.000 e R$8.000;Sim;Não;Nenhum;68
+827;76;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Ambiental;90
+828;57;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;93
+829;72;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;90
+830;41;Até R$3.000;Não;Sim;Ciência e Tecnologia de Materiais;85
+831;45;Acima de R$8.000;Não;Sim;Engenharia de Controle e Automação;78
+832;64;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;41
+833;78;Entre R$3.000 e R$8.000;Não;Sim;Outro;89
+834;40;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;94
+835;45;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;33
+836;40;Acima de R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;43
+837;72;Entre R$3.000 e R$8.000;Sim;Sim;Outro;64
+838;74;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;39
+839;64;Até R$3.000;Sim;Sim;Engenharia Ambiental;50
+840;50;Acima de R$8.000;Sim;Sim;Outro;23
+841;72;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;52
+842;21;Até R$3.000;Não;Não;Ciência e Tecnologia de Materiais;70
+843;62;Entre R$3.000 e R$8.000;Não;Sim;Outro;34
+844;40;Até R$3.000;Não;Não;Engenharia Elétrica;72
+845;53;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Ambiental;97
+846;52;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;82
+847;57;Até R$3.000;Não;Sim;Outro;58
+848;33;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Ambiental;62
+849;27;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;42
+850;34;Até R$3.000;Não;Sim;Ciência e Tecnologia de Materiais;40
+851;47;Até R$3.000;Sim;Sim;Ciências Ambientais;71
+852;46;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;16
+853;75;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;45
+854;20;Até R$3.000;Não;Sim;Outro;22
+855;57;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;89
+856;29;Acima de R$8.000;Sim;Sim;Engenharia Ambiental;6
+857;63;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;92
+858;73;Até R$3.000;Não;Não;Nenhum;5
+859;49;Entre R$3.000 e R$8.000;Sim;Não;Engenharia de Controle e Automação;94
+860;38;Até R$3.000;Sim;Sim;Engenharia Ambiental;75
+861;72;Entre R$3.000 e R$8.000;Sim;Não;Outro;94
+862;43;Até R$3.000;Sim;Sim;Engenharia Ambiental;32
+863;52;Acima de R$8.000;Sim;Sim;Nenhum;32
+864;66;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;88
+865;69;Até R$3.000;Sim;Não;Engenharia Elétrica;12
+866;66;Entre R$3.000 e R$8.000;Não;Não;Ciência e Tecnologia de Materiais;48
+867;72;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;65
+868;18;Acima de R$8.000;Sim;Sim;Outro;41
+869;75;Até R$3.000;Não;Sim;Ciência e Tecnologia de Materiais;17
+870;21;Acima de R$8.000;Sim;Não;Ciência e Tecnologia de Materiais;69
+871;67;Entre R$3.000 e R$8.000;Não;Sim;Outro;23
+872;72;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;66
+873;53;Entre R$3.000 e R$8.000;Sim;Não;Nenhum;67
+874;71;Entre R$3.000 e R$8.000;Não;Sim;Outro;86
+875;61;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Ambiental;80
+876;23;Entre R$3.000 e R$8.000;Sim;Não;Ciências Ambientais;48
+877;37;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;99
+878;67;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;65
+879;60;Entre R$3.000 e R$8.000;Sim;Não;Ciência e Tecnologia de Materiais;96
+880;36;Até R$3.000;Não;Sim;Outro;28
+881;73;Entre R$3.000 e R$8.000;Não;Não;Ciência e Tecnologia de Materiais;36
+882;20;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;22
+883;28;Até R$3.000;Sim;Sim;Engenharia Elétrica;32
+884;40;Acima de R$8.000;Não;Sim;Engenharia Elétrica;34
+885;44;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;75
+886;33;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;16
+887;71;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;45
+888;75;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;29
+889;26;Entre R$3.000 e R$8.000;Não;Não;Ciências Ambientais;30
+890;63;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;73
+891;18;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;64
+892;20;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;17
+893;23;Até R$3.000;Sim;Sim;Outro;64
+894;59;Acima de R$8.000;Sim;Sim;Engenharia de Controle e Automação;3
+895;32;Acima de R$8.000;Não;Sim;Engenharia Ambiental;99
+896;71;Entre R$3.000 e R$8.000;Sim;Sim;Ciências Ambientais;89
+897;22;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;70
+898;22;Entre R$3.000 e R$8.000;Não;Não;Ciências Ambientais;45
+899;42;Acima de R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;3
+900;49;Entre R$3.000 e R$8.000;Não;Sim;Outro;26
+901;31;Até R$3.000;Sim;Sim;Engenharia Ambiental;95
+902;48;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;35
+903;47;Até R$3.000;Sim;Sim;Nenhum;55
+904;50;Até R$3.000;Sim;Não;Ciência e Tecnologia de Materiais;25
+905;49;Acima de R$8.000;Não;Sim;Engenharia de Controle e Automação;49
+906;30;Até R$3.000;Não;Sim;Outro;74
+907;67;Até R$3.000;Não;Sim;Engenharia Ambiental;3
+908;19;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;91
+909;67;Acima de R$8.000;Não;Sim;Ciências Ambientais;95
+910;66;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;81
+911;50;Até R$3.000;Não;Sim;Engenharia Elétrica;53
+912;76;Entre R$3.000 e R$8.000;Não;Não;Outro;59
+913;21;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;85
+914;34;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;24
+915;24;Acima de R$8.000;Não;Sim;Nenhum;40
+916;46;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Elétrica;98
+917;71;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;49
+918;41;Entre R$3.000 e R$8.000;Sim;Sim;Outro;16
+919;48;Até R$3.000;Sim;Sim;Nenhum;52
+920;48;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;6
+921;52;Até R$3.000;Sim;Sim;Nenhum;53
+922;25;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;67
+923;63;Acima de R$8.000;Sim;Não;Ciências Ambientais;23
+924;35;Até R$3.000;Sim;Não;Engenharia Elétrica;51
+925;41;Até R$3.000;Não;Sim;Ciências Ambientais;13
+926;53;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;43
+927;50;Até R$3.000;Não;Sim;Ciências Ambientais;57
+928;39;Até R$3.000;Sim;Não;Engenharia Ambiental;95
+929;63;Acima de R$8.000;Não;Não;Engenharia Elétrica;4
+930;19;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Ambiental;21
+931;58;Até R$3.000;Não;Sim;Engenharia Ambiental;35
+932;45;Entre R$3.000 e R$8.000;Não;Não;Nenhum;77
+933;60;Até R$3.000;Sim;Sim;Ciência e Tecnologia de Materiais;54
+934;53;Acima de R$8.000;Não;Sim;Engenharia Ambiental;87
+935;45;Acima de R$8.000;Não;Sim;Engenharia de Controle e Automação;34
+936;19;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;10
+937;34;Acima de R$8.000;Sim;Sim;Engenharia de Controle e Automação;77
+938;40;Até R$3.000;Não;Sim;Engenharia Ambiental;72
+939;30;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;98
+940;41;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;51
+941;60;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;45
+942;23;Até R$3.000;Não;Sim;Engenharia Ambiental;39
+943;40;Até R$3.000;Não;Sim;Nenhum;52
+944;21;Até R$3.000;Sim;Não;Outro;69
+945;49;Entre R$3.000 e R$8.000;Não;Não;Outro;66
+946;29;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;77
+947;34;Entre R$3.000 e R$8.000;Não;Sim;Nenhum;11
+948;58;Até R$3.000;Sim;Sim;Engenharia Ambiental;49
+949;74;Acima de R$8.000;Não;Sim;Engenharia Ambiental;4
+950;60;Entre R$3.000 e R$8.000;Sim;Não;Outro;12
+951;37;Até R$3.000;Não;Sim;Ciências Ambientais;47
+952;66;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;80
+953;64;Até R$3.000;Não;Não;Ciências Ambientais;36
+954;75;Acima de R$8.000;Sim;Sim;Engenharia Ambiental;86
+955;20;Até R$3.000;Sim;Sim;Engenharia Elétrica;8
+956;58;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;94
+957;62;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;82
+958;38;Acima de R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;18
+959;77;Acima de R$8.000;Sim;Sim;Nenhum;45
+960;30;Entre R$3.000 e R$8.000;Não;Sim;Ciências Ambientais;43
+961;53;Entre R$3.000 e R$8.000;Não;Não;Ciência e Tecnologia de Materiais;39
+962;50;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;62
+963;42;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Elétrica;37
+964;32;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Elétrica;21
+965;39;Entre R$3.000 e R$8.000;Não;Sim;Engenharia de Controle e Automação;72
+966;36;Entre R$3.000 e R$8.000;Não;Não;Engenharia de Controle e Automação;38
+967;22;Acima de R$8.000;Não;Sim;Nenhum;10
+968;64;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;59
+969;78;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;29
+970;60;Entre R$3.000 e R$8.000;Não;Não;Ciência e Tecnologia de Materiais;50
+971;22;Entre R$3.000 e R$8.000;Sim;Não;Outro;88
+972;30;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;49
+973;18;Entre R$3.000 e R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;95
+974;24;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia de Controle e Automação;47
+975;18;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Elétrica;82
+976;66;Entre R$3.000 e R$8.000;Não;Sim;Outro;48
+977;57;Acima de R$8.000;Não;Sim;Nenhum;19
+978;20;Entre R$3.000 e R$8.000;Sim;Não;Engenharia Elétrica;61
+979;21;Acima de R$8.000;Sim;Não;Engenharia de Controle e Automação;24
+980;55;Entre R$3.000 e R$8.000;Não;Não;Ciência e Tecnologia de Materiais;81
+981;66;Até R$3.000;Não;Sim;Ciências Ambientais;6
+982;25;Entre R$3.000 e R$8.000;Sim;Sim;Engenharia Ambiental;94
+983;66;Entre R$3.000 e R$8.000;Não;Não;Engenharia Ambiental;98
+984;68;Acima de R$8.000;Sim;Sim;Ciências Ambientais;46
+985;40;Acima de R$8.000;Não;Sim;Ciências Ambientais;92
+986;66;Acima de R$8.000;Sim;Sim;Engenharia Elétrica;34
+987;27;Até R$3.000;Não;Sim;Engenharia de Controle e Automação;42
+988;26;Até R$3.000;Sim;Não;Outro;58
+989;76;Entre R$3.000 e R$8.000;Não;Sim;Outro;87
+990;51;Até R$3.000;Não;Sim;Engenharia Ambiental;17
+991;68;Acima de R$8.000;Não;Sim;Ciência e Tecnologia de Materiais;18
+992;22;Entre R$3.000 e R$8.000;Sim;Sim;Nenhum;84
+993;68;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;94
+994;46;Acima de R$8.000;Não;Sim;Outro;12
+995;28;Entre R$3.000 e R$8.000;Não;Sim;Engenharia Elétrica;34
+996;45;Até R$3.000;Sim;Sim;Engenharia Elétrica;36
+997;24;Entre R$3.000 e R$8.000;Sim;Não;Outro;7
+998;47;Até R$3.000;Sim;Sim;Engenharia de Controle e Automação;49
+999;49;Entre R$3.000 e R$8.000;Sim;Sim;Ciência e Tecnologia de Materiais;17
+1000;44;Entre R$3.000 e R$8.000;Não;Sim;Outro;20
